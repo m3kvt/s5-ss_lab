@@ -1,0 +1,7 @@
+PGM	START	0
+.	ABC	P,Q
+-	LDA	?g
+-	STA	?g
+P	RESW	1
+Q	RESW	1
+-	END	-

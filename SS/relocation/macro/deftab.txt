@@ -1,0 +1,4 @@
+ABC	&A,&B
+LDA	?g
+STA	?g
+MEND
